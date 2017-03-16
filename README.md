@@ -5,3 +5,8 @@
  "name":"xiang",
  "age":"25"
  }
+ 
+ for(int i=0;i<10;I++){
+ Log.i(name,xiang);
+ }
+ 
